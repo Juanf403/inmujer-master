@@ -172,10 +172,62 @@
             <h2>Transparencia</h2>
           </div>
           
-       <div class="row">
-        <div class="grid_12">
-
-          
+         <div class="row">
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">I. Estructura Organica</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:18px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">II. Leyes, Reglamentos & Manuales</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">III. Plan Municipal Desarrollo</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="width:110px;text-align:center;height:63px;line-height:90px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">IV. Directorio</a>
+              </div>
+          </div>
+          <div class="row">
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">V. Unidad de Inf. Publica</a>
+              </div>
+            
+              
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">VI. Lista de Personal</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">VII. Jubilados y Pensionados</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="width:110px;text-align:center;height:63px;line-height:90px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">VIII. Servicios</a>
+              </div>
+          </div>
+          <div class="row">
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:18px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">IX. Presupuestos</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:18px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">X. Estado de Ingresos y Egresos</a>
+              </div>
+            
+            
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">XI. Subsidios y Subvenciones</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:18px;"  data-wow-duration="1s" data-wow-delay="0.1s" href="#">XII. Licitaciones (Convocatoria y Resultados)</a>
+              </div>
+          </div>
+          <div class="row">
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">XIII. Vehiculos Oficiales</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">XIV. Informe Anual</a>
+              </div>
+              <div class="grid_3">
+                <a class="btn-big wow fadeInUp" style="text-align:center;width:110px;height:63px;line-height:30px;" data-wow-duration="1s" data-wow-delay="0.1s" href="#">XV. Juntas de Consejo</a>
+              </div>
           </div>
         </div>
       </div>

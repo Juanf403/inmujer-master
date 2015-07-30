@@ -163,8 +163,7 @@
                           CONTENT
 =========================================================-->
 <section id="content">
-   <div class="row">
-   <div class="col-xs-12 col-sm-6 col-md-8">
+<div class="row">
   <div class="slider-wrapper">
     <div id="camera_wrap">
       <div data-src="images/slider1.jpg">
@@ -217,12 +216,7 @@
         </div>
       </div>
     </div>
-    <div class="clearfix"></div>
   </div>
-</div>
-<div class="col-xs-6 col-md-4">
-
-</div>
 </div>
   <div class="wrapper1">
     <div class="container">
@@ -281,7 +275,7 @@
           
 
               <div class="grid_12">
-                <a class="btn-big wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" href="#">Read more</a>
+                <a class="btn-big wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" href="noticias.php">Ver Mas</a>
               </div>
             </div>
           </div>
@@ -350,6 +344,9 @@
                 </div>
               </div>
             </div>
+            <div class="grid_12">
+                <a class="btn-big wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" href="editoriales.php">Ver Mas</a>
+              </div>
           </div>
         </div>
       </div>
@@ -434,43 +431,7 @@
 <!--========================================================
                           FOOTER
 =========================================================-->
-<footer id="footer">
-  <div class="wrapper">
-    <div class="container">
-      <div class="row">
-        <div class="grid_12">
-          <div class="socials">
-            <ul class="socials1">
-              <li class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.1s"><a href="https://www.facebook.com/Inmujernl?pnref=lhc"><i class="fa fa-facebook"></i></a></li>
-              <li class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.2s"><a href="https://twitter.com/Immujernl"><i class="fa fa-twitter"></i></a></li>
-            </ul>
-          </div>
-          <div class="footer_menu">
-            <nav>
-              <ul>
-                <li class="wow fadeInUp current" data-wow-duration="1s" data-wow-delay="0.1s"><a href="index.html">Home</a></li>
-                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"><a href="index-1.html">About</a></li>
-                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s"><a href="index-2.html">Services</a></li>
-                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s"><a href="index-3.html">News &amp; Events</a></li>
-                <li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s"><a href="index-4.html">Contacts</a></li>
-              </ul>
-            </nav>
-          </div>
-          <div class="row">
-            <div class="grid_10 preffix_1">
-              <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc.</p>
-            </div>
-          </div>
-          <div class="privacy-block wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s">
-            <a href="index.html">Maternity Hospital</a> &copy; <span id="copyright-year"></span>. <a
-                  href="index-5.html">Privacy Policy</a>
-            <!--{%FOOTER_LINK} -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</footer>
+
 
 <script src="js/script.js"></script>
 <script type="text/javascript">
